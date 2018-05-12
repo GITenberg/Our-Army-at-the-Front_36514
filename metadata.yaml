@@ -1,0 +1,28 @@
+_repo: Our-Army-at-the-Front_36514
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36514-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Broun, Heywood
+    alias: Broun, Heywood Campbell
+    birthdate: 1888
+    deathdate: 1939
+    gutenberg_agent_id: '5623'
+    url: http://www.gutenberg.org/2009/agents/5623
+    wikipedia: http://en.wikipedia.org/wiki/Heywood_Broun
+description: ''
+gutenberg_issued: '2011-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- United States'
+- !lcc 'D501'
+title: Our Army at the Front
+url: http://www.gutenberg.org/ebooks/36514
